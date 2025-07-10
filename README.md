@@ -20,7 +20,8 @@ A simple and responsive Todo List web app built using **pure HTML, CSS, and Java
 
 Here's how the Todo List looks:
 
-![Todo List Screenshot](Screenshot 2025-07-10 124158.png)
+
+![Screenshot 2025-07-10 124158](https://github.com/user-attachments/assets/3c4feab6-8286-401c-b181-6613edb7ee57)
 
 ## 📂 Project Structure
 
