@@ -51,7 +51,7 @@ todo-list/
 ## 📌 Setup Instructions
 
 1. Clone this repository:
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/adxrshraj/Todo-List
 
 
 2. Open `todo3.html` in your browser.
